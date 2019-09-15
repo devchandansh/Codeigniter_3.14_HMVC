@@ -1,7 +1,7 @@
 # Codeigniter HMVC Moduler Extension
-Codeigniter  Version 3.14 HMVC
+Codeigniter Used Version 3.14 HMVC
 
-# Basic HMVC Structure
+## Basic HMVC Structure
 
 It is the Basic Codeigniter HMVC Structure
 
@@ -26,12 +26,12 @@ It is the Basic Codeigniter HMVC Structure
    	/views
 ```
 
-# Instruction:
+## Instruction:
 
---	First, Place `thirs_party` folder files into `application/third_party`  folder
---	Second,Place `core` folder's files into `application/core` folder
+*	First, Place `thirs_party` folder files into `application/third_party`  folder
+*	Second,Place `core` folder's files into `application/core` folder
 
-# Note:
+## Note:
 
 Modules Name & Controller Name Must be same. Controller name must be `Capitalize` like: `Users.php` 
 ```
