@@ -5,7 +5,7 @@ Codeigniter  Version 3.14 HMVC
 
 It is the Basic Codeigniter HMVC Structure
 
-`
+```
 /application
 	/controllers
    	/config
@@ -24,7 +24,7 @@ It is the Basic Codeigniter HMVC Structure
 
    	/third_party
    	/views
-`
+```
 
 # Instruction
 
